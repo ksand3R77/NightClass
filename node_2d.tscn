@@ -1,3 +1,12 @@
 [gd_scene format=3 uid="uid://bh1oheoal1ity"]
 
 [node name="Node2D" type="Node2D"]
+position = Vector2(19, 21)
+
+[node name="Button" type="Button" parent="."]
+offset_left = 313.0
+offset_top = 68.0
+offset_right = 687.0
+offset_bottom = 212.0
+theme_override_font_sizes/font_size = 30
+text = "ИДИ НАХУЙ"
