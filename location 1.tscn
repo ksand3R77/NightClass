@@ -7,9 +7,16 @@ position = Vector2(3, 2)
 
 [node name="ParallaxBackground" parent="." instance=ExtResource("2_n6wxr")]
 
-[node name="Button" type="Button" parent="."]
+[node name="button 1 door" type="Button" parent="."]
 offset_left = 263.0
 offset_top = 229.0
 offset_right = 433.0
+offset_bottom = 517.0
+flat = true
+
+[node name="button 2 door" type="Button" parent="."]
+offset_left = 728.0
+offset_top = 229.0
+offset_right = 898.0
 offset_bottom = 517.0
 flat = true
